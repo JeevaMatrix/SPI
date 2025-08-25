@@ -48,6 +48,7 @@ This project implements a fully functional SPI (Serial Peripheral Interface) pro
 - Verifies correct bitwise transfer and reception
 
 ---
+![SPI GTKWave Screenshot](/spi_waveform.png)
 
 ## 🧠 Design Philosophy
 
